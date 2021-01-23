@@ -12,7 +12,7 @@ Unfortunately, I'm not able to post that work on Github due to proprietary data,
 
 ## Project Breakdown
 
-*1. Traffic Analysis & Optimization*
+*1. Traffic Analysis & Optimization
 
     I analyze where website traffic is coming from, traffic volume and conversion rates of different sources, and how budget can be optimized by adjusting bids.
 
