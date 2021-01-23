@@ -14,7 +14,7 @@ Unfortunately, I'm not able to post that work on Github due to proprietary data,
 
 1. Traffic Analysis & Optimization
 
-Blah blah 
+    Blah blah 
 
 2. Website Measurement & Testing
 3. Mid Project
