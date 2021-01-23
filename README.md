@@ -40,3 +40,7 @@ Unfortunately, I'm not able to post that work on Github due to proprietary data,
 7. *Final Evaluation*
 
     I'm tasked with developing a data-driven growth story for potential investors.
+    
+    
+
+**Credits: John Pauler of Maven Analytics on Udemy*
