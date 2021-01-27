@@ -1,5 +1,6 @@
 USE mavenfuzzyfactory;
 
+
 SELECT *
 FROM orders;
 
@@ -151,7 +152,7 @@ ON A.website_session_id = C.website_session_id
 GROUP BY 1, 2
 ORDER BY 1, 2;
 
-
+—- test
 
 /*
 7. We made our 4th product available as a primary product on December 05, 2014 (it was previously only a cross-sell item). 
